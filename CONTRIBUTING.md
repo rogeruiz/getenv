@@ -1,6 +1,6 @@
 ## Welcome!
 
-I'm so glad you're thinking about contributing to Tick CLI! If you're unsure
+I'm so glad you're thinking about contributing to getenv CLI! If you're unsure
 about anything, just ask -- or submit the issue or pull request anyway. The
 worst that can happen is you'll be politely asked to change something.
 
